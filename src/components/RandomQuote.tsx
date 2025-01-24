@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { fetchRandomQuote } from '../utils/api';
 import QuoteCard from './QuoteCard';
 import { Quote } from '../types/Quote';
