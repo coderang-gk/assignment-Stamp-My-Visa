@@ -25,8 +25,8 @@ Ensure you have the following installed on your system:
 ## Getting Started
 Follow the steps below to set up and run the application locally.
 
-### 1. Clone the Repository
-```bash
+## Clone the repository
+Follow the steps below to set up and run the application locally.
 git clone <repository-url>
 cd quote-gallery
 
@@ -42,6 +42,7 @@ yarn dev
 
 
 ### Below is the file structure
+```bash
 .
 ├── src
 │   ├── components
